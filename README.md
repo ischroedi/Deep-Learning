@@ -5,8 +5,7 @@
    
 * [How to Make a Prediction - Intro to Deep Learning #1](#how-to-make-a-prediction---intro-to-deep-learning-1) D: 7:52
    
-* How to Do Linear Regression using Gradient Descent
-53:18
+* [How to Do Linear Regression using Gradient Descent](https://github.com/ischroedi/Deep-Learning#how-to-do-linear-regression-using-gradient-descent) D: 53:18
    
 * How to Make a Neural Network - Intro to Deep Learning #2
 9:20
