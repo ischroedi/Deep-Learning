@@ -1,8 +1,10 @@
 # Deep-Learning
 
 ## Table of Contents
+-------------------------
    
-* How to Make a Prediction - Intro to Deep Learning #1
+* [How to Make a Prediction - Intro to Deep Learning #1](## How to Make a Prediction - Intro to Deep Learning #1
+)
 7:52
    
 * How to Do Linear Regression using Gradient Descent
