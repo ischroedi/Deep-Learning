@@ -1,5 +1,13 @@
 # Deep-Learning
 
+My summary of all yotube videos of siraj and the deep learning course at Udacity
+on my way to learn Machine Learning 
+
+Feel free to share, fork and pull this file. :-) 
+
+[My way to Machine Learning](https://schroedi.org)
+
+
 ## Table of Contents
 -------------------------
    
