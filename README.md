@@ -7,8 +7,7 @@
    
 * [How to Do Linear Regression using Gradient Descent](https://github.com/ischroedi/Deep-Learning#how-to-do-linear-regression-using-gradient-descent) D: 53:18
    
-* How to Make a Neural Network - Intro to Deep Learning #2
-9:20
+* [How to Make a Neural Network - Intro to Deep Learning #2](#How-to-Make-a-Neural Network---Intro-to-Deep-Learning-2) D: 9:20
    
 * How to Use Tensorflow for Classification (LIVE)
 1:01:16
@@ -118,3 +117,10 @@ I am also very proud and excited to announce my new, exclusive partnership with 
 The point of this is to demonstrate the concept of gradient descent. Gradient descent is the most popular optimization strategy in deep learning, in particular an implementation of it called backpropagation. We are using gradient descent as our optimization strategy for linear regression. We'll draw the line of best fit to measure the relationship between student test scores and the amount of hours studied. 
 
 + https://youtu.be/XdM6ER7zTLk?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3 D. 53:17 min.
+
+
+## How to Make a Neural Network - Intro to Deep Learning #2
+
+How do we learn? In this video, I'll discuss our brain's biological neural network, then we'll talk about how an artificial neural network works. We'll create our own single layer feedforward network in Python, demo it, and analyze the implications of our results. This is the 2nd weekly video in my intro to deep learning series (Udacity nanodegree) 
+
++ https://youtu.be/p69khggr1Jo?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
