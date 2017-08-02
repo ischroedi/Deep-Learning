@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* **[How to Make a Prediction - Intro to Deep Learning](# How to Make a Prediction - Intro to Deep Learning #1
+* [How to Make a Prediction - Intro to Deep Learning](## How to Make a Prediction - Intro to Deep Learning #1
 )
-* **[How to Do Linear Regression using Gradient Descent](# How to Do Linear Regression using Gradient Descent)
+* [How to Do Linear Regression using Gradient Descent](## How to Do Linear Regression using Gradient Descent)
 
 
 
