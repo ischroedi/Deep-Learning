@@ -1,11 +1,108 @@
 # Deep-Learning
 
 ## Table of Contents
-
-* [How to Make a Prediction - Intro to Deep Learning](## How to Make a Prediction - Intro to Deep Learning #1
-)
-* [How to Do Linear Regression using Gradient Descent](## How to Do Linear Regression using Gradient Descent)
-
+   
+* How to Make a Prediction - Intro to Deep Learning #1
+7:52
+   
+* How to Do Linear Regression using Gradient Descent
+53:18
+   
+* How to Make a Neural Network - Intro to Deep Learning #2
+9:20
+   
+* How to Use Tensorflow for Classification (LIVE)
+1:01:16
+   
+* How to Do Sentiment Analysis - Intro to Deep Learning #3
+9:21
+   
+* How to Make Word Vectors from Game of Thrones (LIVE)
+49:25
+   
+* How to Do Mathematics Easily - Intro to Deep Learning #4
+9:51
+   
+* How to Predict Music You Love (LIVE)
+51:31
+   
+* How to Make Data Amazing - Intro to Deep Learning #5
+8:44
+   
+* How to Simplify Your Dataset Easily (LIVE)
+1:00:16
+   
+* How to Make an Image Classifier - Intro to Deep Learning #6
+8:45
+   
+* How to Make a Tensorflow Image Classifier (LIVE)
+52:15
+   
+* How to Predict Stock Prices Easily - Intro to Deep Learning #7
+9:58
+   
+* How to Use Tensorflow for Time Series (Live)
+1:06:31
+   
+* How to Generate Art - Intro to Deep Learning #8
+8:57
+   
+* How to Do Style Transfer with Tensorflow (LIVE)
+1:06:26
+   
+* How to Generate Music - Intro to Deep Learning #9
+8:22
+   
+* How to Generate Music with Tensorflow (LIVE)
+1:03:10
+   
+* How to Make a Text Summarizer - Intro to Deep Learning #10
+9:06
+   
+* How to Generate Your Own Wikipedia Articles (LIVE)
+1:11:44
+   
+* How to Make a Language Translator - Intro to Deep Learning #11
+8:48
+   
+* How to Use Tensorflow for Seq2seq Models (LIVE)
+58:36
+   
+* How to Make a Chatbot - Intro to Deep Learning #12
+8:34
+   
+* How to Use Tensorboard (LIVE)
+56:04
+   
+* How to Win Slot Machines - Intro to Deep Learning #13
+9:39
+   
+* How to Beat Pong Using Policy Gradients (LIVE)
+1:10:27
+   
+* How to Generate Images - Intro to Deep Learning #14
+8:48
+   
+* How to Generate Images with Tensorflow (LIVE)
+1:02:51
+   
+* How to Generate Video - Intro to Deep Learning #15
+9:41
+   
+* Generative Adversarial Networks (LIVE)
+1:04:41
+   
+* How to Convert Text to Images - Intro to Deep Learning #16
+9:33
+   
+* Generative Adversarial Networks for Style Transfer (LIVE)
+1:03:42
+   
+* How to Learn from Little Data - Intro to Deep Learning #17
+8:53
+   
+* Differentiable Neural Computer (LIVE)
+1:03:56
 
 
 -----
