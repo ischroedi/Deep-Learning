@@ -5,7 +5,11 @@ on my way to learn Machine Learning
 
 Feel free to share, fork and pull this file. :-) 
 
-[My way to Machine Learning](https://schroedi.org)
++ [My way to Machine Learning](https://schroedi.org)
++ [my Udacity profile](https://profiles.udacity.com/p/8833151869)
++ [Github](https://github.com/ischroedi)
++ [Linked-in](https://www.linkedin.com/in/msc2021/)
+
 
 
 ## Table of Contents
