@@ -7,7 +7,7 @@
    
 * [How to Do Linear Regression using Gradient Descent](https://github.com/ischroedi/Deep-Learning#how-to-do-linear-regression-using-gradient-descent) D: 53:18
    
-* [How to Make a Neural Network - Intro to Deep Learning #2](#How-to-Make-a-Neural Network---Intro-to-Deep-Learning-2) D: 9:20
+* [How to Make a Neural Network - Intro to Deep Learning #2](https://github.com/ischroedi/Deep-Learning#how-to-make-a-neural-network---intro-to-deep-learning-2) D: 9:20
    
 * How to Use Tensorflow for Classification (LIVE)
 1:01:16
