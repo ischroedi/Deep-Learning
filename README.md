@@ -29,7 +29,7 @@ Feel free to share, fork and pull this file. :-)
 * How to Make Word Vectors from Game of Thrones (LIVE)
 49:25
    
-* How to Do Mathematics Easily - Intro to Deep Learning #4
+* [How to Do Mathematics Easily - Intro to Deep Learning #4](https://github.com/ischroedi/Deep-Learning#how-to-do-mathematics-easily---intro-to-deep-learning-4)
 9:51
    
 * How to Predict Music You Love (LIVE)
