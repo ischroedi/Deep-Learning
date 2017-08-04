@@ -21,7 +21,7 @@ Feel free to share, fork and pull this file. :-)
    
 * [How to Make a Neural Network - Intro to Deep Learning #2](https://github.com/ischroedi/Deep-Learning#how-to-make-a-neural-network---intro-to-deep-learning-2) D: 9:20
    
-* How to Use Tensorflow for Classification (LIVE)
+* [How to Use Tensorflow for Classification (LIVE)](https://youtu.be/4urPuRoT1sE?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 1:01:16
    
 * How to Do Sentiment Analysis - Intro to Deep Learning #3
@@ -136,3 +136,16 @@ The point of this is to demonstrate the concept of gradient descent. Gradient de
 How do we learn? In this video, I'll discuss our brain's biological neural network, then we'll talk about how an artificial neural network works. We'll create our own single layer feedforward network in Python, demo it, and analyze the implications of our results. This is the 2nd weekly video in my intro to deep learning series (Udacity nanodegree) 
 
 + https://youtu.be/p69khggr1Jo?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
+
+## How to Do Sentiment Analysis - Intro to Deep Learning #3
+
+In this video, we'll use machine learning to help classify emotions! The example we'll use is classifying a movie review as either positive or negative via TF Learn in 20 lines of Python.
+
++ https://youtu.be/si8zZHkufRY?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
+
+
+## How to Do Mathematics Easily - Intro to Deep Learning #4
+
+Let's learn about some key math concepts behind deep learning shall we? We'll build a 3 layer neural network and dive into some key concepts that makes deep learning give us such incredible results.
+
++ https://youtu.be/N4gDikiec8E?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
