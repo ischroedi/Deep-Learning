@@ -24,8 +24,7 @@ Feel free to share, fork and pull this file. :-)
 * [How to Use Tensorflow for Classification (LIVE)](https://youtu.be/4urPuRoT1sE?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 1:01:16
    
-* How to Do Sentiment Analysis - Intro to Deep Learning #3
-9:21
+* [How to Do Sentiment Analysis - Intro to Deep Learning #3](https://github.com/ischroedi/Deep-Learning#how-to-do-sentiment-analysis---intro-to-deep-learning-3) D: 9:21 min.
    
 * How to Make Word Vectors from Game of Thrones (LIVE)
 49:25
